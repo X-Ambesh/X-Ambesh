@@ -101,15 +101,8 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=x-ambesh&show_icons=true&count_private=true&hide_border=true&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=x-ambesh&theme=dark&hide_border=true&background=09131B&stroke=0000&ring=ff652f&fire=ff652f&currStreakLabel=ff652f" alt="GitHub Streak" width="48%" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=x-ambesh&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=ff652f&bg_color=09131B&text_color=ffffff" alt="Top Languages" width="48%" />
-</div>
-
 
 ---
 
