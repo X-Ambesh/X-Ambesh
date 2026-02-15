@@ -9,7 +9,6 @@
 - 🌱 I'm continuously learning **Machine Learning, Deep Learning & Cloud Technologies**
 - 💬 Ask me about **Python, java , c++ and AI-ML **
 - 📫 Reach me at **ambeshyadav8188@gmail.com**
-- ⚡ Fun fact: **I turn coffee into code!**
 
 ---
 
