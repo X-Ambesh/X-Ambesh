@@ -110,13 +110,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=x-ambesh&show_icons=true&locale=en&layout=compact&hide_border=true&title_color=ff652f&bg_color=09131B&text_color=ffffff" alt="Top Languages" width="48%" />
 </div>
 
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=x-ambesh&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
-</p>
 
 ---
 
