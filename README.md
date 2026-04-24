@@ -168,9 +168,7 @@ agent.boot_sequence()
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=x-ambesh&layout=donut-vertical&hide_border=true&bg_color=000000&title_color=00ff41&text_color=00cc33&langs_count=8" width="32%" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://github-profile-trophy.vercel.app/?username=x-ambesh&theme=matrix&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" width="62%" />
+
 
 </div>
 
